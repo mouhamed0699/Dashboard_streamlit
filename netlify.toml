@@ -1,5 +1,6 @@
 [build]
   command = "streamlit run app.py"
   publish = "."
-  runtime = "python-3.8"
+  runtime = "python-2.7
+  "
 
